@@ -47,7 +47,7 @@ body {
 .card .imges {
     width: 400px;
     height: 600px;
-    background-image: url(../images/image-product-desktop.jpg);
+    background-image: url(images/image-product-desktop.jpg);
     background-size: cover;
     border-radius: 2% 0 0 2%;
 }
@@ -56,7 +56,7 @@ body {
     .card .imges {
         width: 100%;
         height: 40%;
-        background-image: url(../images/image-product-mobile.jpg);
+        background-image: url(images/image-product-mobile.jpg);
         background-size: cover;
         border-radius: 3% 3% 0 0;
     }
